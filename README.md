@@ -7,7 +7,7 @@ Very simple Bruteforce tool
 
 Tested on spielaffe.de
 
-It works like this:
+## It works like this:
 
 -You enter a e-mail from an existing account
 
